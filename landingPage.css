@@ -1,5 +1,9 @@
 button {
-    color: black;
-    height: 75px; 
-    width: 150px;
+  color: black;
+  height: 75px;
+  width: 150px;
+}
+img {
+    height: 150px; 
+    width: 150px; 
 }
